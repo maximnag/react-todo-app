@@ -35,6 +35,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Made by Max N
+## Created by Max N
 
 [Linkedin](https://www.linkedin.com/in/maxim-nagorniy-65875b11a/)
