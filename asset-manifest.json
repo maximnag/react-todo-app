@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maximnag.github.io/react-todo/static/css/main.5058369d.css",
+    "main.js": "/maximnag.github.io/react-todo/static/js/main.e19c7149.js",
+    "index.html": "/maximnag.github.io/react-todo/index.html",
+    "main.5058369d.css.map": "/maximnag.github.io/react-todo/static/css/main.5058369d.css.map",
+    "main.e19c7149.js.map": "/maximnag.github.io/react-todo/static/js/main.e19c7149.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5058369d.css",
+    "static/js/main.e19c7149.js"
+  ]
+}
