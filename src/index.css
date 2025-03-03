@@ -5,10 +5,11 @@
 }
 
 body {
-  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+  font-family: 'Century Gothic Paneuropean', 'Montserrat', 'Ubuntu', 'Cantarell',
     'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   color: white;
-  background-color: #003135;
+  /* background-color: #003135; */
+  background-color: #ebe9e1;
 }
 
 /* COLORS */

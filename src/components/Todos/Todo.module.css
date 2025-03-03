@@ -1,22 +1,63 @@
 .todo {
   display: flex;
   align-items: center;
-  padding: 10px;
+  padding: 15px 10px;
   margin-bottom: 15px;
   border-radius: 5px;
-  font-size: 1.5rem;
-  background-color: #afdde5;
+  font-size: 1.2rem;
+  background-color: #024950;
   border: 0;
-  color: #003135;
+  color: #ebe9e1;
 }
 
 .todoText {
   text-align: left;
   width: 100%;
-  padding-left: 10px;
+  padding: 0 10px;
 }
 
 .todoIcon {
-  color: #0fa4af;
+  color: #ebe9e1;
   font-size: 1.8rem;
+}
+
+.todoCheck {
+  color: #ebe9e1;
+  font-size: 1.8rem;
+  opacity: 1;
+  transition: all 0.2s linear;
+  cursor: pointer;
+}
+
+.todoCheck:hover {
+  transform: scale(1.2);
+}
+
+.todoDelete {
+  color: #ebe9e1;
+  font-size: 1.8rem;
+  transition: all 0.2s linear;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.todoDelete:hover {
+  transform: scale(1.2);
+}
+
+.completedTodo {
+  background-color: #b5b1a7;
+}
+
+.completedTodo .todoText {
+  text-decoration: line-through;
+}
+
+.completedTodo .todoCheck {
+  color: #e43d12;
+}
+@media screen and (max-width: 768px) {
+  .todo {
+    padding: 10px;
+  }
 }
